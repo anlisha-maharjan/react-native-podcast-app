@@ -38,11 +38,9 @@ npx react-native run-android
 
 ## Project Structure
 
----
 
 * 📄 `App.js`: The main component that gets registered by `index.js`. This acts as a main navigator, navigating either to the Login Page or the Dashboard Page depending on whether the user has logged in or not.
 
---
 
 * 📁 `src`: Contains the actual React front-end for the App.
   * 📄 `src/assets`: Exposes all the assets such as fonts, icons and images.
@@ -53,17 +51,14 @@ npx react-native run-android
   * 📄 `src/services`: Axios api request functions.
   * 📄 `src/styles`: react-native StyleSheet.
 
---
 
 * 📁 `ios`: Contains the basic skeleton for a React Native iOS appn.
 
---
 
 * 📁 `android`: Contains the basic skeleton for a React Native Android app.
   * 📄 `android/app/build.gradle`: The gradle build file for the Android project.
   * 📁 `android/app/src/main/java/com/cninfotech/andelskungen`: Contains the actual Java source code of the Project.
 
----
 
 ## Note
 
