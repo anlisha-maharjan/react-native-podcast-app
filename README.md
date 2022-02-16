@@ -1,5 +1,5 @@
 ## About The App
-Podcast App using React Native with bottom-tab navigation menu. Consist Firebase Push Notification.
+Podcast App for Android & iOS built using React Native that includes Firebase Cloud Messaging and react-native-video component.
 
 ## Features
 
