@@ -1,3 +1,5 @@
+⚠️ [This project is no longer maintained](https://github.com/anlisha-maharjan/react-native-podcast-app/issues/1) ⚠️
+
 ## About The App
 Podcast App for Android & iOS built using React Native that includes Firebase Cloud Messaging and react-native-video component.
 
